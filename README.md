@@ -132,6 +132,7 @@
 | [iconbuddy](https://iconbuddy.app/logo-maker) |  logo 设计 |
 | [iconray](https://icon.ray.so/) |  logo 设计 |
 | [icon horse](https://icon.horse/) |  logo 探测 |
+| [favicon.io](https://favicon.io/) |  favicon/logo 生成 |
 
 ### 图标库
 | 平台 | 备注 |
