@@ -17,7 +17,6 @@
 | [smart-excel-ai（免费）](https://github.com/weijunext/smart-excel-ai) | Next.js。集成了登录、支付（lemon squeezy）、AI功能 |
 | [Opensaas（免费）](https://github.com/wasp-lang/open-saas/) | React + Node.js。集成了登录、支付（stripe）、邮件、AI功能 |
 | [Shipfast（付费）](https://shipfa.st/) | Next.js。集成了登录、支付（stripe）、邮件、AI功能 |
-| [dub（免费）](https://github.com/dubinc/dub) | Next.js。集成了登录、支付（stripe）、邮件 |
 
 ## Chrome 插件开发
 
@@ -49,6 +48,7 @@
 | --- | --- |
 | [Supabase](https://supabase.com/)🌟 |  支持数据库、文件存储、登录鉴权 |
 | [Upstash](https://console.upstash.com)🌟 |  支持 Redis、kafka、向量数据库 |
+| [Mongodb](https://www.mongodb.com/products/platform/cloud)🌟 |  Mongodb 官方提供一个免费数据库 |
 
 ### ORM
 
@@ -116,7 +116,7 @@
 
 | 平台 | 备注 |
 | --- | --- |
-| [Namesilo](https://www.namesilo.com/)🌟 | 免费屏蔽whois |
+| [Namesilo](https://www.namesilo.com/)🌟 | 自动屏蔽whois |
 | [Namecheap](https://www.namecheap.com/) | 据说比较便宜 |
 | [Godaddy](https://www.godaddy.com/) | 狗爹，懂的都懂 |
 | [阿里云](https://wanwang.aliyun.com/domain) <br>  [腾讯云](https://cloud.tencent.com/act/pro/domain-sale) <br> [字节火山引擎](https://www.volcengine.com/product/domain-service)| 国内平台，cn域名首选平台 |
@@ -128,29 +128,39 @@
 | [Notion](https://notion.so/) |  |
 
 ### logo
-
 | 平台 | 备注 |
 | --- | --- |
 | [iconbuddy](https://iconbuddy.app/logo-maker) |  logo 设计 |
 | [iconray](https://icon.ray.so/) |  logo 设计 |
 | [icon horse](https://icon.horse/) |  logo 探测 |
+| [favicon generator](https://realfavicongenerator.net/) |  生成多平台多种类logo(ico、PNG、SVG) |
+| [比特虫](https://www.bitbug.net/) |  PNG/JPG 转 ico |
+
 
 ### 图标库
-
 | 平台 | 备注 |
 | --- | --- |
 | [iconbuddy](https://iconbuddy.app/) | |
 | [fontawesome](https://fontawesome.com/icons) | |
 
-### 图片压缩工具
 
+### 图片视频处理工具
 | 平台 | 备注 |
 | --- | --- |
-| [Tinypng](https://tinypng.com/) | |
-| [Tinypng - 国内版](https://tinify.cn/) | |
+| [Tinypng](https://tinypng.com/) | 图片压缩 |
+| [Tinify](https://tinify.cn/) | 图片压缩 - 国内版 |
+| [video-to-gif](https://ezgif.com/video-to-gif) | 视频转 GIF|
+
+
 
 ### 录屏
-
 | 平台 | 备注 |
 | --- | --- |
 | [focusee](https://gemoo.com/focusee/) | |
+
+
+### 短链
+| 平台 | 备注 |
+| --- | --- |
+| [dub](https://github.com/dubinc/dub) | 免费用户每个月可以创建25个链接 |
+
