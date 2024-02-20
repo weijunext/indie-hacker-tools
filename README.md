@@ -33,7 +33,7 @@
 ### 前端
 | 技术栈 | 备注|
 | --- | --- |
-| 🌟[Next.js](https://nextjs.org/) | 基于 React。附属学习教程：[Next.js Practice](https://nextjs.weijunext.com/)  |
+| [Next.js](https://nextjs.org/)🌟 | 基于 React。附属学习教程：[Next.js Practice](https://nextjs.weijunext.com/)  |
 | [Remix](https://remix.run/) | 基于 React |
 | [Nuxt](https://nuxt.com/) | 基于 Vue |
 
@@ -47,26 +47,26 @@
 ### 数据库
 | 技术栈 | 备注 |
 | --- | --- |
-| 🌟[Supabase](https://supabase.com/) |  支持数据库、文件存储、登录鉴权 |
-| 🌟[Upstash](https://console.upstash.com) |  支持 Redis、kafka、向量数据库 |
+| [Supabase](https://supabase.com/)🌟 |  支持数据库、文件存储、登录鉴权 |
+| [Upstash](https://console.upstash.com)🌟 |  支持 Redis、kafka、向量数据库 |
 
 ### ORM
 | 技术栈 | 备注 |
 | --- | --- |
-| 🌟[Prisma](https://prisma.io/) |   |
+| [Prisma](https://prisma.io/)🌟 |   |
 
 
 ### 样式与UI库
 | 技术栈 | 备注 |
 | --- | --- |
-| 🌟[Tailwind CSS](https://tailwindcss.com/) | |
-| 🌟[Shadcn/ui](https://ui.shadcn.com/) |  |
+| [Tailwind CSS](https://tailwindcss.com/)🌟 | |
+| [Shadcn/ui](https://ui.shadcn.com/)🌟 |  |
 
 
 ### 登录鉴权
 | 技术栈 | 备注 |
 | --- | --- |
-| 🌟[Clerk](https://clerk.com/) | |
+| [Clerk](https://clerk.com/)🌟 | |
 | [Supabase](https://supabase.com/) |  PostgreSQL数据库、文件存储、登录鉴权 |
 | [Next-Auth v4](https://next-auth.js.org/) | |
 | [Next-Auth v5](https://authjs.dev/getting-started/introduction) | v5 配置和 v4 不同，请注意区分<br> [v5 Demo](https://github.com/AntonioErdeljac/next-auth-v5-advanced-guide) |
@@ -75,7 +75,7 @@
 ### 支付
 | 技术栈 | 备注 |
 | --- | --- |
-| 🌟[Lemon Squeezy](https://www.lemonsqueezy.com/) |  支持个人香港卡、虚拟卡，国内开发者首选 |
+| [Lemon Squeezy](https://www.lemonsqueezy.com/)🌟 |  支持个人香港卡、虚拟卡，国内开发者首选 |
 | [Stripe](https://stripe.com/) | 需要企业资质  |
 
 
@@ -102,7 +102,7 @@
 ### 部署与托管
 | 平台 | 备注 |
 | --- | --- |
-| 🌟[Vercel](https://vercel.com/dashboard) | 首选 |
+| [Vercel](https://vercel.com/dashboard)🌟 | 首选 |
 | [Aircode](https://aircode.io/) | 字节跳动出品 |
 | [Zeabur](https://zeabur.com/) | 国内出海团队出品 |
 | [Railway](https://railway.app/) |  |
@@ -114,7 +114,7 @@
 ### 域名购买
 | 平台 | 备注 |
 | --- | --- |
-| 🌟[Namesilo](https://www.namesilo.com/) | 免费屏蔽whois |
+| [Namesilo](https://www.namesilo.com/)🌟 | 免费屏蔽whois |
 | [Namecheap](https://www.namecheap.com/) | 据说比较便宜 |
 | [Godaddy](https://www.godaddy.com/) | 狗爹，懂的都懂 |
 | [阿里云](https://wanwang.aliyun.com/domain) <br>  [腾讯云](https://cloud.tencent.com/act/pro/domain-sale) <br> [字节火山引擎](https://www.volcengine.com/product/domain-service)| 国内平台，cn域名首选平台 |
