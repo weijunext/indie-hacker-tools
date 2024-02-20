@@ -18,7 +18,7 @@
 | [Opensaas（免费）](https://github.com/wasp-lang/open-saas/) | React + Node.js。集成了登录、支付（stripe）、邮件、AI功能 |
 | [Shipfast（付费）](https://shipfa.st/) | Next.js。集成了登录、支付（stripe）、邮件、AI功能 |
 
-## Chrome 插件开发
+## Chrome 插件开发模板
 
 | 模板 | 特性 |
 | --- | --- |
