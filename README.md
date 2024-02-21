@@ -25,6 +25,7 @@
 | [Plasmo](https://www.plasmo.com/) | 支持 React、Vue 等多种前端框架 |
 | [wxt.dev](https://wxt.dev/) | 支持 Vue、Svelte 等多种前端框架 |
 
+
 ## 技术栈推荐
 
 ### 前端
@@ -93,6 +94,7 @@
 | --- | --- |
 | [Google Analytics](https://analytics.google.com/analytics/web/) | |
 | [Plausible]( https://plausible.io) | |
+| [Umami](https://umami.is/)| 开源可自部署 |
 
 ### 在线客服
 
@@ -120,6 +122,7 @@
 | [Namecheap](https://www.namecheap.com/) | 据说比较便宜 |
 | [Godaddy](https://www.godaddy.com/) | 狗爹，懂的都懂 |
 | [阿里云](https://wanwang.aliyun.com/domain) <br>  [腾讯云](https://cloud.tencent.com/act/pro/domain-sale) <br> [字节火山引擎](https://www.volcengine.com/product/domain-service)| 国内平台，cn域名首选平台 |
+| [Cloudflare](https://cloudflare.com/) | |
 
 ### 文档管理
 
@@ -142,6 +145,7 @@
 | --- | --- |
 | [iconbuddy](https://iconbuddy.app/) | |
 | [fontawesome](https://fontawesome.com/icons) | |
+| [MingCute](https://www.mingcute.com/) | |
 
 
 ### 图片视频处理工具
@@ -156,6 +160,7 @@
 | 平台 | 备注 |
 | --- | --- |
 | [focusee](https://gemoo.com/focusee/) | |
+| [Screen Studio](https://www.screen.studio) | |
 
 
 ### 短链
