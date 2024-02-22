@@ -168,3 +168,11 @@
 | 平台 | 备注 |
 | --- | --- |
 | [dub](https://github.com/dubinc/dub) | 免费用户每个月可以创建25个链接 |
+
+### 原型设计
+
+| 平台 | 备注 |
+| --- | --- |
+| [v0](https://v0.dev/) | Text to UI, 免费用户有 200 Credits / 每月|
+| [usegalileo](https://www.usegalileo.ai/) | Text to UI, 免费用户有 200 Credits |
+| [vx.dev](https://github.com/Yuyz0112/vx.dev) | Text to UI, v0.dev的开源替代品 |
