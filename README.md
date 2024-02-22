@@ -25,7 +25,6 @@
 | [Plasmo](https://www.plasmo.com/) | 支持 React、Vue 等多种前端框架 |
 | [wxt.dev](https://wxt.dev/) | 支持 Vue、Svelte 等多种前端框架 |
 
-
 ## 技术栈推荐
 
 ### 前端
@@ -70,6 +69,7 @@
 | --- | --- |
 | [Clerk](https://clerk.com/)🌟 | |
 | [Supabase](https://supabase.com/) |  PostgreSQL数据库、文件存储、登录鉴权 |
+| [lucia](https://github.com/lucia-auth/lucia) |  登录鉴权 |
 | [Next-Auth v4](https://next-auth.js.org/) | |
 | [Next-Auth v5](https://authjs.dev/getting-started/introduction) | v5 配置和 v4 不同，请注意区分<br> [v5 Demo](https://github.com/AntonioErdeljac/next-auth-v5-advanced-guide) |
 
@@ -131,6 +131,7 @@
 | [Notion](https://notion.so/) |  |
 
 ### logo
+
 | 平台 | 备注 |
 | --- | --- |
 | [iconbuddy](https://iconbuddy.app/logo-maker) |  logo 设计 |
@@ -139,32 +140,39 @@
 | [favicon generator](https://realfavicongenerator.net/) |  生成多平台多种类logo(ico、PNG、SVG) |
 | [比特虫](https://www.bitbug.net/) |  PNG/JPG 转 ico |
 
-
 ### 图标库
+
 | 平台 | 备注 |
 | --- | --- |
 | [iconbuddy](https://iconbuddy.app/) | |
 | [fontawesome](https://fontawesome.com/icons) | |
 | [MingCute](https://www.mingcute.com/) | |
 
-
 ### 图片视频处理工具
+
 | 平台 | 备注 |
 | --- | --- |
 | [Tinypng](https://tinypng.com/) | 图片压缩 |
 | [Tinify](https://tinify.cn/) | 图片压缩 - 国内版 |
 | [video-to-gif](https://ezgif.com/video-to-gif) | 视频转 GIF|
 
-
 ### 录屏
+
 | 平台 | 备注 |
 | --- | --- |
 | [focusee](https://gemoo.com/focusee/) | |
 | [Screen Studio](https://www.screen.studio) | |
 
-
 ### 短链
+
 | 平台 | 备注 |
 | --- | --- |
 | [dub](https://github.com/dubinc/dub) | 免费用户每个月可以创建25个链接 |
 
+### 原型设计
+
+| 平台 | 备注 |
+| --- | --- |
+| [v0](https://v0.dev/) | Text to UI, 免费用户有 200 Credits / 每月|
+| [usegalileo](https://www.usegalileo.ai/) | Text to UI, 免费用户有 200 Credits |
+| [vx.dev](https://github.com/Yuyz0112/vx.dev) | Text to UI, v0.dev的开源替代品 |
