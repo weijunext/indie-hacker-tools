@@ -84,6 +84,7 @@
 | [Lucia](https://github.com/lucia-auth/lucia) |  登录鉴权 |
 | [Next-Auth v4](https://next-auth.js.org/) | |
 | [Next-Auth v5](https://authjs.dev/getting-started/introduction) | v5 配置和 v4 不同，请注意区分<br> [v5 Demo](https://github.com/AntonioErdeljac/next-auth-v5-advanced-guide) |
+| [Logto](https://github.com/logto-io/logto) | 登录鉴权 |
 
 ### 支付
 
