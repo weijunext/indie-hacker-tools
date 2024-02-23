@@ -163,6 +163,7 @@
 | --- | --- |
 | [focusee](https://gemoo.com/focusee/) | |
 | [Screen Studio](https://www.screen.studio) | |
+| [OBS Studio](https://obsproject.com/) | 开源、windows、mac、linux |
 
 ### 短链
 
