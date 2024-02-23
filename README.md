@@ -150,6 +150,7 @@
 | [iconbuddy](https://iconbuddy.app/) | |
 | [fontawesome](https://fontawesome.com/icons) | |
 | [MingCute](https://www.mingcute.com/) | |
+| [iconify](https://iconify.design/) | |
 
 ### 图片视频处理工具
 
@@ -165,6 +166,7 @@
 | --- | --- |
 | [focusee](https://gemoo.com/focusee/) | |
 | [Screen Studio](https://www.screen.studio) | |
+| [OBS Studio](https://obsproject.com/) | 开源、windows、mac、linux |
 
 ### 短链
 
