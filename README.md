@@ -95,6 +95,7 @@
 | [Google Analytics](https://analytics.google.com/analytics/web/) | |
 | [Plausible]( https://plausible.io) | |
 | [Umami](https://umami.is/)| 开源可自部署 |
+| [Clarity](https://clarity.microsoft.com/) | 微软出的分析工具 |
 
 ### 在线客服
 
