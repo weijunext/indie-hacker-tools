@@ -129,6 +129,8 @@
 | 平台 | 备注 |
 | --- | --- |
 | [Notion](https://notion.so/) |  |
+| [VitePress](https://vitepress.vuejs.org/) | Vite & Vue 驱动的静态站点生成器, 功能包含文档管理但不局限于此 |
+| [Astro](https://astro.build/) | Astro 为世界上最快的网站、客户端 Web 应用程序、动态 API 端点以及介于两者之间的一切提供支持。 更多可以参考[Astro Case](https://starlight.astro.build/resources/showcase/) |
 
 ### logo
 
