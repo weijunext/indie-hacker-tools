@@ -10,6 +10,8 @@
 
 欢迎提 pr 和 issues 更新。
 
+本仓库贡献者[@zhuima](https://github.com/zhuima) 发布了在线导航站：https://nav.678668.xyz/
+
 ## Web 开发模板
 
 | 模板 | 特性 |
@@ -31,8 +33,8 @@
 
 | 技术栈 | 备注|
 | --- | --- |
-| [Next.js](https://nextjs.org/)🌟 | 基于 React。附属学习教程：[Next.js Practice](https://nextjs.weijunext.com/)  |
-| [Remix](https://remix.run/) | 基于 React |
+| [Next.js](https://nextjs.org/)🌟 | 基于 React，附属学习教程：[Next.js Practice](https://nextjs.weijunext.com/)  |
+| [Remix](https://remix.run/) |  基于 React，Next.js最大竞争对手 |
 | [Nuxt](https://nuxt.com/) | 基于 Vue |
 
 ### 后端
@@ -63,13 +65,23 @@
 | [Tailwind CSS](https://tailwindcss.com/)🌟 | |
 | [Shadcn/ui](https://ui.shadcn.com/)🌟 |  |
 
+
+### 原型设计
+
+| 平台 | 备注 |
+| --- | --- |
+| [v0](https://v0.dev/) | Text to UI, 免费用户有 200 Credits / 每月|
+| [usegalileo](https://www.usegalileo.ai/) | Text to UI, 免费用户有 200 Credits |
+| [vx.dev](https://github.com/Yuyz0112/vx.dev) | Text to UI, v0.dev的开源替代品 |
+
+
 ### 登录鉴权
 
 | 技术栈 | 备注 |
 | --- | --- |
 | [Clerk](https://clerk.com/)🌟 | |
 | [Supabase](https://supabase.com/) |  PostgreSQL数据库、文件存储、登录鉴权 |
-| [lucia](https://github.com/lucia-auth/lucia) |  登录鉴权 |
+| [Lucia](https://github.com/lucia-auth/lucia) |  登录鉴权 |
 | [Next-Auth v4](https://next-auth.js.org/) | |
 | [Next-Auth v5](https://authjs.dev/getting-started/introduction) | v5 配置和 v4 不同，请注意区分<br> [v5 Demo](https://github.com/AntonioErdeljac/next-auth-v5-advanced-guide) |
 
@@ -109,7 +121,7 @@
 | --- | --- |
 | [Vercel](https://vercel.com/dashboard)🌟 | 首选 |
 | [Aircode](https://aircode.io/) | 字节跳动出品 |
-| [Zeabur](https://zeabur.com/) | 国内出海团队出品 |
+| [Zeabur](https://zeabur.com/) | 国内出海团队出品，作者：[@MichaelYuhe](https://github.com/MichaelYuhe) |
 | [Railway](https://railway.app/) |  |
 | [Netlify](https://www.netlify.com/) | |
 | [Github Pages](https://pages.github.com/) | |
@@ -122,16 +134,16 @@
 | [Namesilo](https://www.namesilo.com/)🌟 | 自动屏蔽whois |
 | [Namecheap](https://www.namecheap.com/) | 据说比较便宜 |
 | [Godaddy](https://www.godaddy.com/) | 狗爹，懂的都懂 |
-| [阿里云](https://wanwang.aliyun.com/domain) <br>  [腾讯云](https://cloud.tencent.com/act/pro/domain-sale) <br> [字节火山引擎](https://www.volcengine.com/product/domain-service)| 国内平台，cn域名首选平台 |
 | [Cloudflare](https://cloudflare.com/) | |
+| [阿里云](https://wanwang.aliyun.com/domain) <br>  [腾讯云](https://cloud.tencent.com/act/pro/domain-sale) <br> [字节火山引擎](https://www.volcengine.com/product/domain-service)| 国内平台，cn域名首选平台 |
 
 ### 文档管理
 
 | 平台 | 备注 |
 | --- | --- |
 | [Notion](https://notion.so/) |  |
-| [VitePress](https://vitepress.vuejs.org/) | Vite & Vue 驱动的静态站点生成器, 功能包含文档管理但不局限于此 |
-| [Astro](https://astro.build/) | Astro 为世界上最快的网站、客户端 Web 应用程序、动态 API 端点以及介于两者之间的一切提供支持。 更多可以参考[Astro Case](https://starlight.astro.build/resources/showcase/) |
+| [VitePress](https://vitepress.vuejs.org/) | Vite & Vue 驱动的静态站点生成器 |
+| [Astro Starlight](https://starlight.astro.build/) | 建立在 Astro 框架之上的全功能文档主题。<br>Astro 团队成员与中文文档翻译者：[@liruifengv](https://github.com/liruifengv/liruifengv) |
 
 ### logo
 
@@ -141,7 +153,7 @@
 | [iconray](https://icon.ray.so/) |  logo 设计 |
 | [icon horse](https://icon.horse/) |  logo 探测 |
 | [favicon generator](https://realfavicongenerator.net/) |  生成多平台多种类logo(ico、PNG、SVG) |
-| [比特虫](https://www.bitbug.net/) |  PNG/JPG 转 ico |
+| [big bug](https://www.bitbug.net/) |  PNG/JPG 转 ico |
 
 ### 图标库
 
@@ -173,11 +185,3 @@
 | 平台 | 备注 |
 | --- | --- |
 | [dub](https://github.com/dubinc/dub) | 免费用户每个月可以创建25个链接 |
-
-### 原型设计
-
-| 平台 | 备注 |
-| --- | --- |
-| [v0](https://v0.dev/) | Text to UI, 免费用户有 200 Credits / 每月|
-| [usegalileo](https://www.usegalileo.ai/) | Text to UI, 免费用户有 200 Credits |
-| [vx.dev](https://github.com/Yuyz0112/vx.dev) | Text to UI, v0.dev的开源替代品 |
