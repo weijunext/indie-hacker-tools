@@ -147,6 +147,7 @@
 | [iconbuddy](https://iconbuddy.app/) | |
 | [fontawesome](https://fontawesome.com/icons) | |
 | [MingCute](https://www.mingcute.com/) | |
+| [iconify](https://iconify.design/) | |
 
 ### 图片视频处理工具
 
