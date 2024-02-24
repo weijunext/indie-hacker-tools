@@ -1,4 +1,4 @@
-出海第一步，搞定技术栈。
+出海第一步，搞定工具库。
 
 本仓库只收录独立开发者出海技术栈和工具，持续整理中……
 
@@ -10,7 +10,7 @@
 
 欢迎提 pr 和 issues 更新。
 
-本仓库贡献者[@zhuima](https://github.com/zhuima) 发布了在线导航站：https://nav.678668.xyz/
+本仓库贡献者[@zhuima](https://github.com/zhuima) 发布了在线导航站：<https://chuhai.tools/>
 
 ## Web 开发模板
 
