@@ -185,3 +185,8 @@
 | 平台 | 备注 |
 | --- | --- |
 | [dub](https://github.com/dubinc/dub) | 免费用户每个月可以创建25个链接 |
+
+## AI工具推荐
+| 工具名称 | 备注 |
+| --- | --- |
+| [coze](https://www.coze.com/) | 字节跳动的出海产品，可以免费使用GPT4 GPT Viso Dalle3等 |
