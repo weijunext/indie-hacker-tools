@@ -10,7 +10,7 @@
 
 欢迎提 pr 和 issues 更新。
 
-本仓库贡献者[@zhuima](https://github.com/zhuima) 发布了在线导航站：https://nav.678668.xyz/
+本仓库贡献者[@zhuima](https://github.com/zhuima) 发布了在线导航站：<https://nav.678668.xyz/>
 
 ## Web 开发模板
 
@@ -51,6 +51,7 @@
 | [Supabase](https://supabase.com/)🌟 |  支持数据库、文件存储、登录鉴权 |
 | [Upstash](https://console.upstash.com)🌟 |  支持 Redis、kafka、向量数据库 |
 | [Mongodb](https://www.mongodb.com/products/platform/cloud)🌟 |  Mongodb 官方提供一个免费数据库 |
+| [planetscale](https://planetscale.com/pricing)🌟 |  MySQL数据库，免费版额度非常慷慨，5GB存储  10亿次读/月  1000万次写/月|
 
 ### ORM
 
@@ -65,7 +66,6 @@
 | [Tailwind CSS](https://tailwindcss.com/)🌟 | |
 | [Shadcn/ui](https://ui.shadcn.com/)🌟 |  |
 
-
 ### 原型设计
 
 | 平台 | 备注 |
@@ -73,7 +73,6 @@
 | [v0](https://v0.dev/) | Text to UI, 免费用户有 200 Credits / 每月|
 | [usegalileo](https://www.usegalileo.ai/) | Text to UI, 免费用户有 200 Credits |
 | [vx.dev](https://github.com/Yuyz0112/vx.dev) | Text to UI, v0.dev的开源替代品 |
-
 
 ### 登录鉴权
 
