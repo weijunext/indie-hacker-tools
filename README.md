@@ -188,6 +188,12 @@
 | --- | --- |
 | [dub](https://github.com/dubinc/dub) | 免费用户每个月可以创建25个链接 |
 
+### Chrome 插件
+
+| 插件 | 备注 |
+| --- | --- |
+| [AITDK SEO Extension](https://chromewebstore.google.com/detail/aitdk-seo-extension/hhfkpjffbhledfpkhhcoidplcebgdgbk) | 免费查询网站流量、Whois 及页面信息的 All in One SEO 插件 |
+
 ## 信息渠道
 
 | 平台 | 备注 |
@@ -196,9 +202,3 @@
 | [Hacker News](https://news.ycombinator.com/) |  |
 | [Indie Hackers](https://www.indiehackers.com/) |  |
 | [w2solo](https://w2solo.com/) | 中文独立开发者社区 |
-
-### Chrome 插件
-
-| 插件 | 备注 |
-| --- | --- |
-| [AITDK SEO Extension](https://chromewebstore.google.com/detail/aitdk-seo-extension/hhfkpjffbhledfpkhhcoidplcebgdgbk) | 免费查询网站流量、Whois 及页面信息的 All in One SEO 插件 |
