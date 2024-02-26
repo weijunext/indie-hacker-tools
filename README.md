@@ -187,3 +187,9 @@
 | 平台 | 备注 |
 | --- | --- |
 | [dub](https://github.com/dubinc/dub) | 免费用户每个月可以创建25个链接 |
+
+### Chrome 插件
+
+| 插件 | 备注 |
+| --- | --- |
+| [AITDK SEO Extension](https://chromewebstore.google.com/detail/aitdk-seo-extension/hhfkpjffbhledfpkhhcoidplcebgdgbk) | 免费查询网站流量、Whois 及页面信息的 All in One SEO 插件 |
