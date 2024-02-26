@@ -58,7 +58,7 @@
 | 技术栈 | 备注 |
 | --- | --- |
 | [Prisma](https://prisma.io/)🌟 |   |
-| [TypeORM](https://github.com/typeorm/ty |
+| [TypeORM](https://github.com/typeorm/typeorm) | |
 
 ### 样式与UI库
 
