@@ -51,12 +51,14 @@
 | [Supabase](https://supabase.com/)🌟 |  支持数据库、文件存储、登录鉴权 |
 | [Upstash](https://console.upstash.com)🌟 |  支持 Redis、kafka、向量数据库 |
 | [Mongodb](https://www.mongodb.com/products/platform/cloud)🌟 |  Mongodb 官方提供一个免费数据库 |
+| [Realm](https://realm.io/) | SQLite 的快速、可扩展的替代方案，具有从移动到云的数据同步功能，可以轻松构建实时、反应灵敏的移动应用程序。 |
 
 ### ORM
 
 | 技术栈 | 备注 |
 | --- | --- |
 | [Prisma](https://prisma.io/)🌟 |   |
+| [TypeORM](https://github.com/typeorm/typeorm) | 用于 TypeScript 和 JavaScript 的 ORM。支持MySQL、PostgreSQL、MariaDB、SQLite、MS SQL Server、Oracle、SAP Hana、WebSQL数据库。适用于 NodeJS、Browser、Ionic、Cordova 和 Electron 平台。 |
 
 ### 样式与UI库
 
