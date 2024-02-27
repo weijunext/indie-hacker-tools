@@ -117,6 +117,7 @@
 | 技术栈 | 备注 |
 | --- | --- |
 | [Tawk](https://tawk.to/) | 中国地区可注册  |
+| [Crisp](https://crisp.chat) | 有免费 Plan，支持中文 |
 
 ### 部署与托管
 
