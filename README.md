@@ -59,6 +59,7 @@
 | --- | --- |
 | [Prisma](https://prisma.io/)🌟 |   |
 | [TypeORM](https://github.com/typeorm/typeorm) | |
+| [Drizzle ORM](https://orm.drizzle.team/) | |
 
 ### 样式与UI库
 
