@@ -148,6 +148,7 @@
 | [Notion](https://notion.so/) |  |
 | [VitePress](https://vitepress.vuejs.org/) | Vite & Vue 驱动的静态站点生成器 |
 | [Astro Starlight](https://starlight.astro.build/) | 建立在 Astro 框架之上的全功能文档主题。<br>Astro 团队成员与中文文档翻译者：[@liruifengv](https://github.com/liruifengv/liruifengv) |
+| [Docusaurus](https://docusaurus.io/) | FaceBook 出品，基于 React，自定义程度高
 
 ### logo
 
