@@ -94,6 +94,7 @@
 | --- | --- |
 | [Lemon Squeezy](https://www.lemonsqueezy.com/)🌟 |  支持个人香港卡、虚拟卡，国内开发者首选 |
 | [Stripe](https://stripe.com/) | 需要企业资质  |
+| [Gumroad](https://gumroad.com/) | 可提现 PayPal
 
 ### 邮件
 
