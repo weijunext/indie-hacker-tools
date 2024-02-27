@@ -1,4 +1,4 @@
-出海第一步，搞定技术栈。
+出海第一步，搞定工具库。
 
 本仓库只收录独立开发者出海技术栈和工具，持续整理中……
 
@@ -27,7 +27,7 @@
 | [Plasmo](https://www.plasmo.com/) | 支持 React、Vue 等多种前端框架 |
 | [wxt.dev](https://wxt.dev/) | 支持 Vue、Svelte 等多种前端框架 |
 
-## 技术栈推荐
+## 技术栈与工具推荐
 
 ### 前端
 
@@ -52,12 +52,14 @@
 | [Upstash](https://console.upstash.com)🌟 |  支持 Redis、kafka、向量数据库 |
 | [Mongodb](https://www.mongodb.com/products/platform/cloud)🌟 |  Mongodb 官方提供一个免费数据库 |
 | [planetscale](https://planetscale.com/pricing)🌟 |  MySQL数据库，免费版额度非常慷慨，5GB存储  10亿次读/月  1000万次写/月|
+| [Realm](https://realm.io/) | SQLite 的快速、可扩展的替代方案  |
 
 ### ORM
 
 | 技术栈 | 备注 |
 | --- | --- |
 | [Prisma](https://prisma.io/)🌟 |   |
+| [TypeORM](https://github.com/typeorm/typeorm) | |
 
 ### 样式与UI库
 
@@ -184,3 +186,12 @@
 | 平台 | 备注 |
 | --- | --- |
 | [dub](https://github.com/dubinc/dub) | 免费用户每个月可以创建25个链接 |
+
+## 信息渠道
+
+| 平台 | 备注 |
+| --- | --- |
+| [Product Hunt](https://www.producthunt.com/) | 新产品打榜聚集地 |
+| [Hacker News](https://news.ycombinator.com/) |  |
+| [Indie Hackers](https://www.indiehackers.com/) |  |
+| [w2solo](https://w2solo.com/) | 中文独立开发者社区 |
