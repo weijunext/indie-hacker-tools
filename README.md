@@ -51,6 +51,7 @@
 | [Supabase](https://supabase.com/)🌟 |  支持数据库、文件存储、登录鉴权 |
 | [Upstash](https://console.upstash.com)🌟 |  支持 Redis、kafka、向量数据库 |
 | [Mongodb](https://www.mongodb.com/products/platform/cloud)🌟 |  Mongodb 官方提供一个免费数据库 |
+| [planetscale](https://planetscale.com/pricing)🌟 |  MySQL数据库，免费版额度非常慷慨，5GB存储  10亿次读/月  1000万次写/月|
 | [Realm](https://realm.io/) | SQLite 的快速、可扩展的替代方案  |
 
 ### ORM
@@ -67,7 +68,6 @@
 | [Tailwind CSS](https://tailwindcss.com/)🌟 | |
 | [Shadcn/ui](https://ui.shadcn.com/)🌟 |  |
 
-
 ### 原型设计
 
 | 平台 | 备注 |
@@ -75,7 +75,6 @@
 | [v0](https://v0.dev/) | Text to UI, 免费用户有 200 Credits / 每月|
 | [usegalileo](https://www.usegalileo.ai/) | Text to UI, 免费用户有 200 Credits |
 | [vx.dev](https://github.com/Yuyz0112/vx.dev) | Text to UI, v0.dev的开源替代品 |
-
 
 ### 登录鉴权
 
@@ -187,7 +186,6 @@
 | 平台 | 备注 |
 | --- | --- |
 | [dub](https://github.com/dubinc/dub) | 免费用户每个月可以创建25个链接 |
-
 
 ## 信息渠道
 
