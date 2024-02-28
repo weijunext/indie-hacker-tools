@@ -50,8 +50,8 @@
 | --- | --- |
 | [Supabase](https://supabase.com/)🌟 |  支持数据库、文件存储、登录鉴权 |
 | [Upstash](https://console.upstash.com)🌟 |  支持 Redis、kafka、向量数据库 |
-| [Mongodb](https://www.mongodb.com/products/platform/cloud)🌟 |  Mongodb 官方提供一个免费数据库 |
-| [planetscale](https://planetscale.com/pricing)🌟 |  MySQL数据库，免费版额度非常慷慨，5GB存储  10亿次读/月  1000万次写/月|
+| [Mongodb](https://www.mongodb.com/products/platform/cloud) |  Mongodb 官方提供一个免费数据库 |
+| [planetscale](https://planetscale.com/pricing) |  MySQL数据库，免费版额度非常慷慨，5GB存储  10亿次读/月  1000万次写/月|
 | [Realm](https://realm.io/) | SQLite 的快速、可扩展的替代方案  |
 
 ### ORM
@@ -124,7 +124,6 @@
 | [Aircode](https://aircode.io/) | 字节跳动出品 |
 | [Zeabur](https://zeabur.com/) | 国内出海团队出品，作者：[@MichaelYuhe](https://github.com/MichaelYuhe) |
 | [Railway](https://railway.app/) |  |
-| [Netlify](https://www.netlify.com/) | |
 | [Github Pages](https://pages.github.com/) | |
 | [Cloudflare Pages](https://developers.cloudflare.com/pages/) | |
 
