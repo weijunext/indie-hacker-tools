@@ -195,3 +195,10 @@
 | [Hacker News](https://news.ycombinator.com/) |  |
 | [Indie Hackers](https://www.indiehackers.com/) |  |
 | [w2solo](https://w2solo.com/) | 中文独立开发者社区 |
+
+## Chrome extension
+
+| 平台 | 备注 |
+| --- | --- |
+| [AITDK Extension](https://aitdk.com/extension/) 🌟 | Traffic & Whois & Website SEO Analysis, 当前免费使用, 良心工具 |
+| [Responsive Viewer](https://responsiveviewer.org/) 🌟 | 可以一键验证多端响应式布局状态 |
