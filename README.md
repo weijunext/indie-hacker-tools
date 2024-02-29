@@ -67,6 +67,7 @@
 | --- | --- |
 | [Tailwind CSS](https://tailwindcss.com/)🌟 | |
 | [Shadcn/ui](https://ui.shadcn.com/)🌟 |  |
+| [Responsive Viewer](https://responsiveviewer.org/) 🌟 | chrome 插件。可以一键验证多端响应式布局状态 |
 
 ### 原型设计
 
@@ -110,6 +111,7 @@
 | [Plausible]( https://plausible.io) | |
 | [Umami](https://umami.is/)| 开源可自部署 |
 | [Clarity](https://clarity.microsoft.com/) | 微软出的分析工具 |
+| [AITDK Extension](https://aitdk.com/extension/) 🌟 | Chrome 插件。网站 SEO 分析工具 |
 
 ### 在线客服
 
@@ -195,10 +197,3 @@
 | [Hacker News](https://news.ycombinator.com/) |  |
 | [Indie Hackers](https://www.indiehackers.com/) |  |
 | [w2solo](https://w2solo.com/) | 中文独立开发者社区 |
-
-## Chrome extension
-
-| 平台 | 备注 |
-| --- | --- |
-| [AITDK Extension](https://aitdk.com/extension/) 🌟 | Traffic & Whois & Website SEO Analysis, 当前免费使用, 良心工具 |
-| [Responsive Viewer](https://responsiveviewer.org/) 🌟 | 可以一键验证多端响应式布局状态 |
