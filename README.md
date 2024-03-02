@@ -123,11 +123,11 @@
 
 | 平台 | 备注 |
 | --- | --- |
-| [Vercel](https://vercel.com/dashboard)🌟 | 首选 |
+| [Vercel](https://vercel.com/dashboard)🌟 | 首选，国内大部分访问不了 |
 | [Aircode](https://aircode.io/) | 字节跳动出品 |
 | [Zeabur](https://zeabur.com/) | 国内出海团队出品，作者：[@MichaelYuhe](https://github.com/MichaelYuhe) |
-| [Railway](https://railway.app/) |  |
-| [Github Pages](https://pages.github.com/) | |
+| [Railway](https://railway.app/) | 国内也可直接访问 |
+| [Github Pages](https://pages.github.com/) | 免费 |
 | [Cloudflare Pages](https://developers.cloudflare.com/pages/) | |
 
 ### 域名购买
@@ -197,3 +197,12 @@
 | [Hacker News](https://news.ycombinator.com/) |  |
 | [Indie Hackers](https://www.indiehackers.com/) |  |
 | [w2solo](https://w2solo.com/) | 中文独立开发者社区 |
+
+
+## 产品发布提交
+| 平台 | 备注 |
+| --- | --- |
+| [Product Hunt](https://www.producthunt.com/) | 新产品主打阵地，发布后其他导航站回来爬取，首选发布地 |
+| [Hacker News](https://news.ycombinator.com/) | 发布注意要写软文，否则容易被删帖 |
+| [PoweredByAI](https://poweredbyai.app/) | 免费提交产品 |
+| [Pinterest](https://www.pinterest.com) | 发布视频频道也会被Google收录（免费）|
