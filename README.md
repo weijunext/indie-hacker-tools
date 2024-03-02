@@ -12,6 +12,8 @@
 
 本仓库贡献者[@zhuima](https://github.com/zhuima) 发布了在线导航站：<https://chuhai.tools/>
 
+本仓库贡献者[@AmbroseX](https://github.com/AmbroseX) 发布了在线导航站（脚本解析实现和仓库数据同步更新）：<https://goout.tools/>
+
 ## Web 开发模板
 
 | 模板 | 特性 |
