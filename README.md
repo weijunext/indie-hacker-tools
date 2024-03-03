@@ -104,6 +104,8 @@
 | [Resend](https://resend.com/) |   |
 | [Nodemailer](https://github.com/nodemailer/nodemailer) |  |
 | [React Mail](https://react.email/) |  |
+| [飞书国内版](https://www.feishu.cn/) | 域名邮箱可以设置至多50个公共邮箱，每个公共邮箱每天400个额度（免费） |
+| [飞书国际版Lark](https://www.larksuite.com/) | 域名邮箱可以设置至多50个公共邮箱，每个公共邮箱每天400个额度（免费） |
 
 ### 网站分析
 
