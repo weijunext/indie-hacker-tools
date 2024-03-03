@@ -60,6 +60,7 @@
 | --- | --- |
 | [Prisma](https://prisma.io/)🌟 |   |
 | [TypeORM](https://github.com/typeorm/typeorm) | |
+| [Drizzle ORM](https://orm.drizzle.team/) | |
 
 ### 样式与UI库
 
@@ -96,6 +97,7 @@
 | --- | --- |
 | [Lemon Squeezy](https://www.lemonsqueezy.com/)🌟 |  支持个人香港卡、虚拟卡，国内开发者首选 |
 | [Stripe](https://stripe.com/) | 需要企业资质  |
+| [Gumroad](https://gumroad.com/) | 可提现 PayPal
 
 ### 邮件
 
@@ -120,6 +122,7 @@
 | 技术栈 | 备注 |
 | --- | --- |
 | [Tawk](https://tawk.to/) | 中国地区可注册  |
+| [Crisp](https://crisp.chat) | 有免费 Plan，支持中文 |
 
 ### 部署与托管
 
@@ -149,6 +152,7 @@
 | [Notion](https://notion.so/) |  |
 | [VitePress](https://vitepress.vuejs.org/) | Vite & Vue 驱动的静态站点生成器 |
 | [Astro Starlight](https://starlight.astro.build/) | 建立在 Astro 框架之上的全功能文档主题。<br>Astro 团队成员与中文文档翻译者：[@liruifengv](https://github.com/liruifengv/liruifengv) |
+| [Docusaurus](https://docusaurus.io/) | FaceBook 出品，基于 React，自定义程度高
 
 ### logo
 
