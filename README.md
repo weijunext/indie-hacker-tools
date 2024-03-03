@@ -161,6 +161,7 @@
 | [icon horse](https://icon.horse/) |  logo 探测 |
 | [favicon generator](https://realfavicongenerator.net/) |  生成多平台多种类logo(ico、PNG、SVG) |
 | [big bug](https://www.bitbug.net/) |  PNG/JPG 转 ico |
+| [iowen](https://api.iowen.cn/doc/favicon.html) | 获取网站 Favicon（免费）|
 
 ### 图标库
 
