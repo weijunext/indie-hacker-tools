@@ -169,6 +169,13 @@
 | [MingCute](https://www.mingcute.com/) | |
 | [iconify](https://iconify.design/) | |
 
+### 图片视频素材
+
+| 平台 | 备注 |
+| --- | --- |
+| [vectorove](https://vectorove.com/) | 完全免费，风格统一的插画库，支持预定义颜色以及png和svg格式导出 |
+
+
 ### 图片视频处理工具
 
 | 平台 | 备注 |
