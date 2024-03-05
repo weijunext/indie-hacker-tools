@@ -120,6 +120,8 @@
 | 技术栈 | 备注 |
 | --- | --- |
 | [Tawk](https://tawk.to/) | 中国地区可注册  |
+| [Tally](https://tally.so/) | 支持很多场景，完美免费！  |
+| [腾讯兔小巢](https://txc.qq.com/) | 面板功能相对更完善 |
 
 ### 部署与托管
 
@@ -175,7 +177,6 @@
 | --- | --- |
 | [vectorove](https://vectorove.com/) | 完全免费，风格统一的插画库，支持预定义颜色以及png和svg格式导出 |
 
-
 ### 图片视频处理工具
 
 | 平台 | 备注 |
@@ -207,8 +208,8 @@
 | [Indie Hackers](https://www.indiehackers.com/) |  |
 | [w2solo](https://w2solo.com/) | 中文独立开发者社区 |
 
-
 ## 产品发布提交
+
 | 平台 | 备注 |
 | --- | --- |
 | [Product Hunt](https://www.producthunt.com/) | 新产品主打阵地，发布后其他导航站回来爬取，首选发布地 |
