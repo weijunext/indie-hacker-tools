@@ -115,13 +115,12 @@
 | [Clarity](https://clarity.microsoft.com/) | 微软出的分析工具 |
 | [AITDK Extension](https://aitdk.com/extension/) 🌟 | Chrome 插件。网站 SEO 分析工具 |
 
-### 在线客服
+### 在线客服和反馈服务
 
 | 技术栈 | 备注 |
 | --- | --- |
 | [Tawk](https://tawk.to/) | 中国地区可注册  |
-| [Tally](https://tally.so/) | 支持很多场景，完美免费！  |
-| [腾讯兔小巢](https://txc.qq.com/) | 面板功能相对更完善 |
+| [腾讯兔小巢](https://txc.qq.com/) | 产品反馈平台，面向国内提供服务可使用 |
 
 ### 部署与托管
 
