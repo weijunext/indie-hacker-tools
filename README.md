@@ -77,6 +77,7 @@
 | 平台 | 备注 |
 | --- | --- |
 | [v0](https://v0.dev/) | Text to UI, 免费用户有 200 Credits / 每月|
+| [https://framer.com/](https://framer.com/) | 一个设计你的网站的网站，framer-motion就是他们的 |
 | [usegalileo](https://www.usegalileo.ai/) | Text to UI, 免费用户有 200 Credits |
 | [vx.dev](https://github.com/Yuyz0112/vx.dev) | Text to UI, v0.dev的开源替代品 |
 
@@ -158,6 +159,7 @@
 | --- | --- |
 | [iconbuddy](https://iconbuddy.app/logo-maker) |  logo 设计 |
 | [iconray](https://icon.ray.so/) |  logo 设计 |
+| [https://logodiffusion.com/](https://logodiffusion.com/) | 生成你的logo |
 | [icon horse](https://icon.horse/) |  logo 探测 |
 | [favicon generator](https://realfavicongenerator.net/) |  生成多平台多种类logo(ico、PNG、SVG) |
 | [big bug](https://www.bitbug.net/) |  PNG/JPG 转 ico |
