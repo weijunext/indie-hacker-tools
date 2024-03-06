@@ -71,6 +71,7 @@
 | [Responsive Viewer](https://responsiveviewer.org/) 🌟 | chrome 插件。可以一键验证多端响应式布局状态 |
 | [Framer Motion](https://www.framer.com/motion/) | 提供了一组高级动画和交互组件，适合快速构建复杂动画和交互效果 |
 | [NextUI](https://nextui.org/)🌟 | |
+| [Mantine-UI-Library](https://mantine.dev/)🌟 | |
 
 ### 原型设计
 
