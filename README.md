@@ -70,6 +70,7 @@
 | [radix-ui](https://www.radix-ui.com/) | 提供无样式、可访问的低级组件库，可用于构建复杂的、可定制的设计系统和 web 应用程序 |
 | [Responsive Viewer](https://responsiveviewer.org/) 🌟 | chrome 插件。可以一键验证多端响应式布局状态 |
 | [Framer Motion](https://www.framer.com/motion/) | 提供了一组高级动画和交互组件，适合快速构建复杂动画和交互效果 |
+| [NextUI](https://nextui.org/)🌟 | |
 
 ### 原型设计
 
