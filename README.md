@@ -80,6 +80,7 @@
 | [https://framer.com/](https://framer.com/) | 一个设计你的网站的网站，framer-motion就是他们的 |
 | [usegalileo](https://www.usegalileo.ai/) | Text to UI, 免费用户有 200 Credits |
 | [vx.dev](https://github.com/Yuyz0112/vx.dev) | Text to UI, v0.dev的开源替代品 |
+| [htmlrev](https://htmlrev.com/) | 1000+ Landing Page, 拿来就用，大部分是免费的 |
 
 ### 登录鉴权
 
