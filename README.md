@@ -52,6 +52,7 @@
 | [Upstash](https://console.upstash.com)🌟 |  支持 Redis、kafka、向量数据库 |
 | [Mongodb](https://www.mongodb.com/products/platform/cloud) |  Mongodb 官方提供一个免费数据库 |
 | [Realm](https://realm.io/) | SQLite 的快速、可扩展的替代方案  |
+| [TiDB Cloud](https://tidbcloud.com/)| 兼容 Mysql 的 TiDB serverless，支持高可用，5G以内免费 |
 
 ### ORM
 
