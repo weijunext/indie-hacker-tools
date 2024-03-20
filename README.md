@@ -19,6 +19,7 @@
 | [smart-excel-ai（免费）](https://github.com/weijunext/smart-excel-ai) | Next.js。集成了登录、支付（lemon squeezy）、AI功能 |
 | [Opensaas（免费）](https://github.com/wasp-lang/open-saas/) | React + Node.js。集成了登录、支付（stripe）、邮件、AI功能 |
 | [Shipfast（付费）](https://shipfa.st/) | Next.js。集成了登录、支付（stripe）、邮件、AI功能 |
+| [Gravity - SaaS Boilerplate](https://usegravity.app) | Node.js。集成了登录、支付（Stripe）、邮件、AI功能 |
 
 ## Chrome 插件开发模板
 
