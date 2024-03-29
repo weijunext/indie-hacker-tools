@@ -10,7 +10,6 @@
 
 欢迎提 pr 和 issues 更新。
 
-本仓库贡献者[@zhuima](https://github.com/zhuima) 发布了在线导航站：<https://chuhai.tools/>
 
 ## Web 开发模板
 
