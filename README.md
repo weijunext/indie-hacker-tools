@@ -70,6 +70,8 @@
 | [Responsive Viewer](https://responsiveviewer.org/) 🌟 | chrome 插件。可以一键验证多端响应式布局状态 |
 | [Framer Motion](https://www.framer.com/motion/) | 提供了一组高级动画和交互组件，适合快速构建复杂动画和交互效果 |
 | [NextUI](https://nextui.org/)🌟 | |
+| [Mantine-UI-Library](https://mantine.dev/)🌟 | |
+| [HeadlessUI](https://headlessui.com/)🌟 | 适合做自己的一套UI库 |
 
 ### 原型设计
 
@@ -209,6 +211,7 @@
 | [Hacker News](https://news.ycombinator.com/) |  |
 | [Indie Hackers](https://www.indiehackers.com/) |  |
 | [w2solo](https://w2solo.com/) | 中文独立开发者社区 |
+| [91wink](https://www.91wink.com/) | 国内出海独立开发者的社区 |
 
 ## 产品发布提交
 
