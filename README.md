@@ -66,20 +66,20 @@
 | --- | --- |
 | [Tailwind CSS](https://tailwindcss.com/)🌟 | |
 | [Shadcn/ui](https://ui.shadcn.com/)🌟 |  |
-| [radix-ui](https://www.radix-ui.com/) | 提供无样式、可访问的低级组件库，可用于构建复杂的、可定制的设计系统和 web 应用程序 |
-| [Responsive Viewer](https://responsiveviewer.org/) 🌟 | chrome 插件。可以一键验证多端响应式布局状态 |
-| [Framer Motion](https://www.framer.com/motion/) | 提供了一组高级动画和交互组件，适合快速构建复杂动画和交互效果 |
 | [NextUI](https://nextui.org/)🌟 | |
+| [radix-ui](https://www.radix-ui.com/) | |
+| [Framer Motion](https://www.framer.com/motion/) | 动效库 |
+| [Responsive Viewer](https://responsiveviewer.org/)  | chrome 插件。可以一键验证多端响应式布局状态 |
 
 ### 原型设计
 
 | 平台 | 备注 |
 | --- | --- |
 | [v0](https://v0.dev/) | Text to UI, 免费用户有 200 Credits / 每月|
+| [vx.dev](https://github.com/Yuyz0112/vx.dev) | Text to UI, v0.dev的开源替代品 |
 | [https://framer.com/](https://framer.com/) | 一个设计你的网站的网站，framer-motion就是他们的 |
 | [usegalileo](https://www.usegalileo.ai/) | Text to UI, 免费用户有 200 Credits |
-| [vx.dev](https://github.com/Yuyz0112/vx.dev) | Text to UI, v0.dev的开源替代品 |
-| [htmlrev](https://htmlrev.com/) | 1000+ Landing Page, 拿来就用，大部分是免费的 |
+| [saaslandingpage](https://saaslandingpage.com/) <br/> [framer landing page](https://www.framer.com/templates/categories/landing-page/) | landing page / 落地页 |
 
 ### 登录鉴权
 
@@ -134,6 +134,7 @@
 | [Railway](https://railway.app/) | 国内也可直接访问 |
 | [Github Pages](https://pages.github.com/) | 免费 |
 | [Cloudflare Pages](https://developers.cloudflare.com/pages/) | |
+| [阿里云服务器](https://www.aliyun.com/minisite/goods?userCode=hrvtosj1) <br>  [腾讯云服务器](https://curl.qcloud.com/lsJFImqi)| 国内云，经常有优惠|
 
 ### 域名购买
 
@@ -159,10 +160,10 @@
 | --- | --- |
 | [iconbuddy](https://iconbuddy.app/logo-maker) |  logo 设计 |
 | [iconray](https://icon.ray.so/) |  logo 设计 |
-| [https://logodiffusion.com/](https://logodiffusion.com/) | 生成你的logo |
+| [logodiffusion](https://logodiffusion.com/) | 生成你的logo |
 | [icon horse](https://icon.horse/) |  logo 探测 |
 | [favicon generator](https://realfavicongenerator.net/) |  生成多平台多种类logo(ico、PNG、SVG) |
-| [big bug](https://www.bitbug.net/) |  PNG/JPG 转 ico |
+| [bit bug](https://www.bitbug.net/) |  PNG/JPG 转 ico |
 
 ### 图标库
 
