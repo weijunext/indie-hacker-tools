@@ -26,6 +26,14 @@
 | [Plasmo](https://www.plasmo.com/) | 支持 React、Vue 等多种前端框架 |
 | [wxt.dev](https://wxt.dev/) | 支持 Vue、Svelte 等多种前端框架 |
 
+
+### Landing Page 模板
+
+| 平台 | 备注 |
+| --- | --- |
+| [tailsc](https://tailsc.com/) | 提供了很多组件，开发者：[推特@zissy_w](https://twitter.com/zissy_w)、[Github@ZissyW](https://github.com/ZissyW) |
+| [landing-page-boilerplate](https://github.com/weijunext/landing-page-boilerplate) | 开源、免费、0设计资源的模板 |
+
 ## 技术栈与工具推荐
 
 ### 前端
@@ -80,6 +88,7 @@
 | [https://framer.com/](https://framer.com/) | 一个设计你的网站的网站，framer-motion就是他们的 |
 | [usegalileo](https://www.usegalileo.ai/) | Text to UI, 免费用户有 200 Credits |
 | [saaslandingpage](https://saaslandingpage.com/) <br/> [framer landing page](https://www.framer.com/templates/categories/landing-page/) | landing page / 落地页 |
+
 
 ### 登录鉴权
 
