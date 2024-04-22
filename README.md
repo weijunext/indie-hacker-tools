@@ -219,6 +219,7 @@
 | [Hacker News](https://news.ycombinator.com/) |  |
 | [Indie Hackers](https://www.indiehackers.com/) |  |
 | [w2solo](https://w2solo.com/) | 中文独立开发者社区 |
+| [出海团](https://chuhaituan.com) | 专注于分享优秀出海产品的拼团平台 |
 
 ## 产品发布提交
 
