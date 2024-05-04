@@ -161,6 +161,7 @@
 | --- | --- |
 | [Notion](https://notion.so/) |  |
 | [VitePress](https://vitepress.vuejs.org/) | Vite & Vue 驱动的静态站点生成器 |
+| [VitePressSimple](https://github.com/zhangdi168/VitePressSimple/) | VitePress可视化工具 |
 | [Astro Starlight](https://starlight.astro.build/) | 建立在 Astro 框架之上的全功能文档主题。<br>Astro 团队成员与中文文档翻译者：[@liruifengv](https://github.com/liruifengv/liruifengv) |
 
 ### logo
