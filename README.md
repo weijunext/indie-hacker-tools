@@ -141,7 +141,6 @@
 | 平台 | 备注 |
 | --- | --- |
 | [Vercel](https://vercel.com/dashboard)🌟 | 首选，国内大部分访问不了 |
-| [Aircode](https://aircode.io/) | 字节跳动出品 |
 | [Zeabur](https://zeabur.com/) | 国内出海团队出品，作者：[@MichaelYuhe](https://github.com/MichaelYuhe) |
 | [Railway](https://railway.app/) | 国内也可直接访问 |
 | [Github Pages](https://pages.github.com/) | 免费 |
