@@ -151,7 +151,7 @@
 
 | 平台 | 备注 |
 | --- | --- |
-| [Namesilo](https://www.namesilo.com/)🌟 | 自动屏蔽whois |
+| [Namesilo](https://www.namesilo.com/domain/search-domains?rid=daad870yv)🌟 | 自动屏蔽whois |
 | [Namecheap](https://www.namecheap.com/) | 据说比较便宜 |
 | [Godaddy](https://www.godaddy.com/) | 狗爹，懂的都懂 |
 | [Cloudflare](https://cloudflare.com/) | |
