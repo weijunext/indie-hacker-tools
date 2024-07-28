@@ -198,7 +198,7 @@
 | 平台 | 备注 |
 | --- | --- |
 | [Tinypng](https://tinypng.com/) | 图片压缩 |
-| [Tinify](https://tinify.cn/) | 图片压缩 - 国内版 |
+| [tiny-img](https://tiny-img.com/webp/) | PNG、JPG 压缩并转 WEBP |
 | [video-to-gif](https://ezgif.com/video-to-gif) | 视频转 GIF|
 
 ### 录屏
@@ -219,7 +219,7 @@
 
 | 平台 | 备注 |
 | --- | --- |
-| [Product Hunt](https://www.producthunt.com/) | 新产品打榜聚集地 |
+| [Product Hunt](https://www.producthunt.com/) | 新产品打榜聚集地。Product Hunt 助手：[PHCopilot.AI](https://PHCopilot.AI) |
 | [Hacker News](https://news.ycombinator.com/) |  |
 | [Indie Hackers](https://www.indiehackers.com/) |  |
 | [w2solo](https://w2solo.com/) | 中文独立开发者社区 |
@@ -229,7 +229,7 @@
 
 | 平台 | 备注 |
 | --- | --- |
-| [Product Hunt](https://www.producthunt.com/) | 新产品主打阵地，发布后其他导航站回来爬取，首选发布地 |
+| [Product Hunt](https://www.producthunt.com/) | 新产品主打阵地，发布后其他导航站回来爬取，首选发布地。Product Hunt 助手：[PHCopilot.AI](https://PHCopilot.AI)  |
 | [Hacker News](https://news.ycombinator.com/) | 发布注意要写软文，否则容易被删帖 |
 | [PoweredByAI](https://poweredbyai.app/) | 免费提交产品 |
 | [Pinterest](https://www.pinterest.com) | 发布视频频道也会被Google收录（免费）|
