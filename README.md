@@ -177,6 +177,7 @@
 | [favicon generator 1](https://realfavicongenerator.net/) |  生成多平台多种类logo(ico、PNG、SVG) |
 | [favicon generator 2](https://www.websiteplanet.com/webtools/favicon-generator/) | 生成多平台多种类logo(ico、PNG、SVG) |
 | [bit bug](https://www.bitbug.net/) |  PNG/JPG 转 ico |
+| [Logo.surf](https://www.logo.surf/) |  文本 Logo 生成器 |
 
 ### 图标库
 
