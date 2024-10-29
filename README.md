@@ -102,7 +102,6 @@
 | [Clerk](https://clerk.com/) | |
 | [Firebase](https://console.firebase.google.com/) |  支持数据库、云函数、登录鉴权 |
 | [Supabase](https://supabase.com/) |  支持数据库、文件存储、登录鉴权 |
-| [Lucia](https://github.com/lucia-auth/lucia) |  登录鉴权 |
 | [Next-Auth v4](https://next-auth.js.org/) | |
 | [Next-Auth v5](https://authjs.dev/getting-started/introduction) | v5 配置和 v4 不同，请注意区分<br> [v5 Demo](https://github.com/hafizn07/next-auth-v5-advanced-guide-2024) |
 | [Logto](https://github.com/logto-io/logto) | 登录鉴权，有云端版和开源的私有化部署版 |
