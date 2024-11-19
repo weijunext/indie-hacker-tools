@@ -18,6 +18,7 @@
 | [smart-excel-ai（免费）](https://github.com/weijunext/smart-excel-ai) | Next.js。集成了登录、支付（lemon squeezy）、AI功能 |
 | [Opensaas（免费）](https://github.com/wasp-lang/open-saas/) | React + Node.js。集成了登录、支付（stripe）、邮件、AI功能 |
 | [Shipfast（付费）](https://shipfa.st/?via=wei) | Next.js。集成了登录、支付（stripe）、邮件、AI功能 |
+| [StartupBolt（付费）](https://www.startupbolt.com/) | Next.js。内置用户认证和支付（Stripe）功能，助您快速启动项目。|
 | [SupaStarter（付费）](https://supastarter.dev?aff=bgO) |  有 Next.js 和 Nuxt 两种模板，功能比较齐全 |
 | [插件+落地页全栈源码和教程（付费）](https://xiaobot.net/p/ship-ph-copilot) |  源码+教程形式的开发专栏，包含：插件(Plasmo)、落地页(Next.js)、服务端(Next.js)、AI(ChatGPT, DeepSeek)、数据库(Firebase)、支付(Paddle)、登录(Firebase) |
 
