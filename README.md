@@ -19,6 +19,7 @@
 | [Opensaas（免费）](https://github.com/wasp-lang/open-saas/) | React + Node.js。集成了登录、支付（stripe）、邮件、AI功能 |
 | [Shipfast（付费）](https://shipfa.st/?via=wei) | Next.js。集成了登录、支付（stripe）、邮件、AI功能 |
 | [SupaStarter（付费）](https://supastarter.dev?aff=bgO) |  有 Next.js 和 Nuxt 两种模板，功能比较齐全 |
+| [插件+落地页全栈源码和教程（付费）](https://xiaobot.net/p/ship-ph-copilot) |  源码+教程形式的开发专栏，包含：插件(Plasmo)、落地页(Next.js)、服务端(Next.js)、AI(ChatGPT, DeepSeek)、数据库(Firebase)、支付(Paddle)、登录(Firebase) |
 
 
 
@@ -26,7 +27,7 @@
 
 | 模板 | 特性 |
 | --- | --- |
-| [Plasmo](https://www.plasmo.com/) | 支持 React、Vue 等多种前端框架 |
+| [Plasmo](https://www.plasmo.com/) | 支持 React、Vue 等多种前端框架 <br>[Plasmo插件开发教程(付费)>>](https://xiaobot.net/p/ship-ph-copilot) |
 | [wxt.dev](https://wxt.dev/) | 支持 Vue、Svelte 等多种前端框架 |
 
 
@@ -36,6 +37,7 @@
 | --- | --- |
 | [tailsc](https://tailsc.com/) | 提供了很多组件，开发者：[推特@zissy_w](https://twitter.com/zissy_w)、[Github@ZissyW](https://github.com/ZissyW) |
 | [landing-page-boilerplate](https://github.com/weijunext/landing-page-boilerplate) | 开源、免费、0设计资源的模板 |
+| [saaslandingpage](https://saaslandingpage.com/) <br/> [framer landing page](https://www.framer.com/templates/categories/landing-page/) | landing page / 落地页 |
 
 ## 技术栈与工具推荐
 
@@ -43,7 +45,7 @@
 
 | 技术栈 | 备注|
 | --- | --- |
-| [Next.js](https://nextjs.org/)🌟 | 基于 React，附属学习教程：[Next.js Practice](https://nextjs.weijunext.com/)  |
+| [Next.js](https://nextjs.org/)🌟 | 基于 React，附属学习教程：<br>[Next.js 中文文档 >>](https://nextjscn.org/)<br>[Next.js 实践教程 >>](https://nextjs.weijunext.com/)<br>[全栈开发教程(付费)>>](https://xiaobot.net/p/ship-ph-copilot)  |
 | [Remix](https://remix.run/) |  基于 React，Next.js最大竞争对手 |
 | [Nuxt](https://nuxt.com/) | 基于 Vue |
 
@@ -58,6 +60,7 @@
 
 | 技术栈 | 备注 |
 | --- | --- |
+| [Firebase](https://console.firebase.google.com/)🌟 |  支持数据库、云函数、登录鉴权 |
 | [Supabase](https://supabase.com/)🌟 |  支持数据库、文件存储、登录鉴权 |
 | [Upstash](https://console.upstash.com)🌟 |  支持 Redis、kafka、向量数据库 |
 | [Mongodb](https://www.mongodb.com/products/platform/cloud) |  Mongodb 官方提供一个免费数据库 |
@@ -75,9 +78,9 @@
 
 | 技术栈 | 备注 |
 | --- | --- |
-| [Tailwind CSS](https://tailwindcss.com/)🌟 | |
-| [Shadcn/ui](https://ui.shadcn.com/)🌟 |  |
-| [NextUI](https://nextui.org/)🌟 | |
+| [Tailwind CSS](https://tailwindcss.com/) | |
+| [Shadcn/ui](https://ui.shadcn.com/) |  |
+| [NextUI](https://nextui.org/) | |
 | [radix-ui](https://www.radix-ui.com/) | |
 | [Framer Motion](https://www.framer.com/motion/) | 动效库 |
 | [Responsive Viewer](https://responsiveviewer.org/)  | chrome 插件。可以一键验证多端响应式布局状态 |
@@ -90,16 +93,15 @@
 | [vx.dev](https://github.com/Yuyz0112/vx.dev) | Text to UI, v0.dev的开源替代品 |
 | [https://framer.com/](https://framer.com/) | 一个设计你的网站的网站，framer-motion就是他们的 |
 | [usegalileo](https://www.usegalileo.ai/) | Text to UI, 免费用户有 200 Credits |
-| [saaslandingpage](https://saaslandingpage.com/) <br/> [framer landing page](https://www.framer.com/templates/categories/landing-page/) | landing page / 落地页 |
 
 
 ### 登录鉴权
 
 | 技术栈 | 备注 |
 | --- | --- |
-| [Clerk](https://clerk.com/)🌟 | |
-| [Supabase](https://supabase.com/) |  PostgreSQL数据库、文件存储、登录鉴权 |
-| [Lucia](https://github.com/lucia-auth/lucia) |  登录鉴权 |
+| [Clerk](https://clerk.com/) | |
+| [Firebase](https://console.firebase.google.com/) |  支持数据库、云函数、登录鉴权 |
+| [Supabase](https://supabase.com/) |  支持数据库、文件存储、登录鉴权 |
 | [Next-Auth v4](https://next-auth.js.org/) | |
 | [Next-Auth v5](https://authjs.dev/getting-started/introduction) | v5 配置和 v4 不同，请注意区分<br> [v5 Demo](https://github.com/hafizn07/next-auth-v5-advanced-guide-2024) |
 | [Logto](https://github.com/logto-io/logto) | 登录鉴权，有云端版和开源的私有化部署版 |
@@ -108,7 +110,7 @@
 
 | 技术栈 | 备注 |
 | --- | --- |
-| [Lemon Squeezy](https://www.lemonsqueezy.com/)🌟 |  支持个人香港卡、虚拟卡，国内开发者首选 |
+| [Paddle](https://www.paddle.com/) |  支持中国大陆身份信息注册和提现 |
 | [Stripe](https://stripe.com/) | 需要企业资质  |
 
 ### 邮件
@@ -179,6 +181,7 @@
 | [bit bug](https://www.bitbug.net/) |  PNG/JPG 转 ico |
 | [svg2ico](https://www.svg2ico.com/) |  SVG、PNG 转 ICO |
 | [svg2png](https://www.svgzz.com/) |  SVG 转 PNG、WebP、JPG |
+| [Logo.surf](https://www.logo.surf/) |  文本 Logo 生成器 |
 
 ### 图标库
 
@@ -235,3 +238,10 @@
 | [Hacker News](https://news.ycombinator.com/) | 发布注意要写软文，否则容易被删帖 |
 | [PoweredByAI](https://poweredbyai.app/) | 免费提交产品 |
 | [Pinterest](https://www.pinterest.com) | 发布视频频道也会被Google收录（免费）|
+
+## 字体
+
+| 平台 | 备注 |
+| --- | --- |
+| [免费【中文】字体](https://wangchujiang.com/free-font/) | 免费可商用【中文】字体  |
+| [免费【英文】字体](https://www.freefaces.gallery/) | 免费可商用【英文】字体 |
