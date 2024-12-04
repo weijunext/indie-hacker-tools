@@ -19,7 +19,7 @@
 | [Opensaas（免费）](https://github.com/wasp-lang/open-saas/) | React + Node.js。集成了登录、支付（stripe）、邮件、AI功能 |
 | [Shipfast（付费）](https://shipfa.st/?via=wei) | Next.js。集成了登录、支付（stripe）、邮件、AI功能 |
 | [SupaStarter（付费）](https://supastarter.dev?aff=bgO) |  有 Next.js 和 Nuxt 两种模板，功能比较齐全 |
-| [插件+落地页全栈源码和教程（付费）](https://xiaobot.net/p/ship-ph-copilot) |  源码+教程形式的开发专栏，包含：插件(Plasmo)、落地页(Next.js)、服务端(Next.js)、AI(ChatGPT, DeepSeek)、数据库(Firebase)、支付(Paddle)、登录(Firebase) |
+| [插件+落地页全栈源码和教程（付费）](https://ship.weijunext.com/) |  源码+教程形式的开发专栏，包含：插件(Plasmo)、落地页(Next.js)、服务端(Next.js)、AI(ChatGPT, DeepSeek)、数据库(Firebase)、支付(Paddle)、登录(Firebase) |
 
 
 
@@ -27,7 +27,7 @@
 
 | 模板 | 特性 |
 | --- | --- |
-| [Plasmo](https://www.plasmo.com/) | 支持 React、Vue 等多种前端框架 <br>[Plasmo插件开发教程(付费)>>](https://xiaobot.net/p/ship-ph-copilot) |
+| [Plasmo](https://www.plasmo.com/) | 支持 React、Vue 等多种前端框架 <br>[Plasmo插件开发教程(付费)>>](https://ship.weijunext.com/) |
 | [wxt.dev](https://wxt.dev/) | 支持 Vue、Svelte 等多种前端框架 |
 
 
@@ -45,7 +45,7 @@
 
 | 技术栈 | 备注|
 | --- | --- |
-| [Next.js](https://nextjs.org/)🌟 | 基于 React，附属学习教程：<br>[Next.js 中文文档 >>](https://nextjscn.org/)<br>[Next.js 实践教程 >>](https://nextjs.weijunext.com/)<br>[全栈开发教程(付费)>>](https://xiaobot.net/p/ship-ph-copilot)  |
+| [Next.js](https://nextjs.org/)🌟 | 基于 React，附属学习教程：<br>[Next.js 中文文档 >>](https://nextjscn.org/)<br>[Next.js 实践教程 >>](https://nextjs.weijunext.com/)<br>[全栈开发教程(付费)>>](https://ship.weijunext.com/)  |
 | [Remix](https://remix.run/) |  基于 React，Next.js最大竞争对手 |
 | [Nuxt](https://nuxt.com/) | 基于 Vue |
 
