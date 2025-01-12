@@ -247,3 +247,10 @@
 | --- | --- |
 | [免费【中文】字体](https://wangchujiang.com/free-font/) | 免费可商用【中文】字体  |
 | [免费【英文】字体](https://www.freefaces.gallery/) | 免费可商用【英文】字体 |
+
+## 终端
+
+| 平台 | 备注 |
+| --- | --- |
+| [Warp](https://www.warp.dev/) |搭载AI的智能终端(目前只支持MacOs、Linux，Windows coming soon) |
+
