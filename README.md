@@ -16,6 +16,9 @@
 | 模板 | 特性 |
 | --- | --- |
 | [smart-excel-ai（免费）](https://github.com/weijunext/smart-excel-ai) | Next.js。集成了登录、支付（lemon squeezy）、AI功能 |
+| [BuouAI（付费）](https://ai.buouui.com) | Next.js。集成了登录、支付（stripe/paypal）、动态组件、Cloudflare R2，Prisma+supabase/mysql、Dashboard、AI(CharGPT、Runpod、Replicate)、Canvas/Notepad、Resend/SMTP |
+| [BuouUI（付费）](https://buouui.com) | TailWind CSS UI Animations library + Section + Landingpage + template |
+| [BuouNext（付费）](https://next.buouui.com) | Next.js。集成了登录、支付（stripe/paypal）、动态组件、Cloudflare R2，Prisma+supabase/mysql、Dashboard、Canvas/Notepad、Resend/SMTP |
 | [Opensaas（免费）](https://github.com/wasp-lang/open-saas/) | React + Node.js。集成了登录、支付（stripe）、邮件、AI功能 |
 | [Shipfast（付费）](https://shipfa.st/?via=wei) | Next.js。集成了登录、支付（stripe）、邮件、AI功能 |
 | [SupaStarter（付费）](https://supastarter.dev?aff=bgO) |  有 Next.js 和 Nuxt 两种模板，功能比较齐全 |
