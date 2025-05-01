@@ -118,6 +118,7 @@
 
 | 技术栈 | 备注 |
 | --- | --- |
+| [MailPace](https://mailpace.com) | 交易电子邮件 |
 | [Resend](https://resend.com/) |   |
 | [Nodemailer](https://github.com/nodemailer/nodemailer) |  |
 | [React Mail](https://react.email/) |  |
