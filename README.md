@@ -173,6 +173,13 @@
 | [VitePressSimple](https://github.com/zhangdi168/VitePressSimple/) | VitePress可视化工具 |
 | [Astro Starlight](https://starlight.astro.build/) | 建立在 Astro 框架之上的全功能文档主题。<br>Astro 团队成员与中文文档翻译者：[@liruifengv](https://github.com/liruifengv/liruifengv) |
 
+### Repo管理
+
+| 平台 | 备注 |
+| --- | --- |
+| [ChangeLog Git-cliff](https://git-cliff.org/) | 基于rust的git-cliff，生成你项目的changelog |
+| [Simple-git-hook](https://github.com/toplenboren/simple-git-hooks) | 轻量化的husky |
+
 ### logo
 
 | 平台 | 备注 |
