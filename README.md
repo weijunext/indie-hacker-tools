@@ -24,6 +24,7 @@
 | [Nexty.dev（付费）](https://nexty.dev) | 多场景 Next.js SaaS 全栈模板，内置了开箱即用的登录、支付、AI、邮件订阅等基础设施，让你真正专注于业务逻辑  |
 | [SupaStarter（付费）](https://supastarter.dev?aff=bgO) |  有 Next.js 和 Nuxt 两种模板，功能比较齐全 |
 | [插件+落地页全栈源码和教程（付费）](https://ship.weijunext.com/) |  源码+教程形式的开发专栏，包含：插件(Plasmo)、落地页(Next.js)、服务端(Next.js)、AI(ChatGPT, DeepSeek)、数据库(Firebase)、支付(Paddle)、登录(Firebase) |
+| [Template0.com(免费)](https://template0.com/) | 近一千份免费前端模板导航站，包含用途、技术栈、预览图快速筛选 |
 
 
 
