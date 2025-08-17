@@ -15,6 +15,11 @@
 > 点此了解 👉[Nexty.dev](https://nexty.dev/)
 
 
+## Deployment & Hosting 部署与托管
+
+| 平台 | 备注 |
+DeployFast	Next.js 应用 AWS 部署工具，只需一条命令，即可实现无冷启动和无缝扩展。https://deployfast.cloud
+
 ## Web 开发模板
 
 | 模板 | 特性 |
