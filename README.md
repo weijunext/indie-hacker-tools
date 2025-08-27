@@ -98,6 +98,7 @@
 | [vx.dev](https://github.com/Yuyz0112/vx.dev) | Text to UI, v0.dev的开源替代品 |
 | [https://framer.com/](https://framer.com/) | 一个设计你的网站的网站，framer-motion就是他们的 |
 | [usegalileo](https://www.usegalileo.ai/) | Text to UI, 免费用户有 200 Credits |
+| [MagicPath.ai](https://www.magicpath.ai/) | 一款由人工智能驱动的设计工具，可通过自然语言指令在无限画布上生成功能性的UI设计和可投入生产的代码。可以简单的理解为专注于UI设计的的Cursor
 
 
 ### 登录鉴权
