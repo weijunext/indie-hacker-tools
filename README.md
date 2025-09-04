@@ -89,6 +89,8 @@
 | [Framer Motion](https://www.framer.com/motion/) | 动效库 |
 | [Responsive Viewer](https://responsiveviewer.org/)  | chrome 插件。可以一键验证多端响应式布局状态 |
 | [Aceternity UI](https://ui.aceternity.com/) | 具有现代科技感的UI库 |
+| [blocks.so](https://blocks.so) |  |
+
 
 ### 原型设计
 
