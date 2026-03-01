@@ -135,6 +135,7 @@
 | [Umami](https://umami.is/)| 开源可自部署 |
 | [Clarity](https://clarity.microsoft.com/) | 微软出的分析工具 |
 | [AITDK Extension](https://aitdk.com/extension/) 🌟 | Chrome 插件。网站 SEO 分析工具 |
+| [PageGuard](https://pageguard.org) | 免费网站健康扫描工具，30秒检测SEO/ADA合规性/性能/最佳实践，无需注册 |
 
 ### 在线客服和反馈服务
 
