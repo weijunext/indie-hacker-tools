@@ -244,6 +244,7 @@
 | [Hacker News](https://news.ycombinator.com/) | 发布注意要写软文，否则容易被删帖 |
 | [PoweredByAI](https://poweredbyai.app/) | 免费提交产品 |
 | [Pinterest](https://www.pinterest.com) | 发布视频频道也会被Google收录（免费）|
+| [submission-site-discovery](https://github.com/SeeleAI/submission-site-discovery) | 从 SaaSHub alternatives 页面发现 Product Hunt、BetaList、Uneed 等可投稿站点，适合独立开发者在产品发布前做渠道发现。 |
 
 ## 字体
 
