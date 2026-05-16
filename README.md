@@ -258,3 +258,9 @@
 | --- | --- |
 | [Warp](https://www.warp.dev/) |搭载AI的智能终端(目前只支持MacOs、Linux，Windows coming soon) |
 
+## AI Agent Skills
+
+| 项目 | 说明 |
+| --- | --- |
+| [agency-agents-cn](https://github.com/Aura-huang/agency-agents-cn) | 一人公司技能库中国版。针对中国市场（微信、小红书、抖音、B站、知乎等）深度优化的 15+ 原创 Agent 角色，一人创业者专属。 |
+
