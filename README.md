@@ -245,6 +245,12 @@
 | [PoweredByAI](https://poweredbyai.app/) | 免费提交产品 |
 | [Pinterest](https://www.pinterest.com) | 发布视频频道也会被Google收录（免费）|
 
+## 内容发布
+
+| 工具 | 备注 |
+| --- | --- |
+| [md2wechat](https://github.com/geekjourneyx/md2wechat-skill) | 面向 AI Agent 的微信公众号发布 CLI。支持 Markdown 预览、公众号排版、图片/封面处理和草稿箱推送，适合独立开发者把技术文章、产品更新和增长内容自动化发布到微信生态。 |
+
 ## 字体
 
 | 平台 | 备注 |
@@ -257,4 +263,3 @@
 | 平台 | 备注 |
 | --- | --- |
 | [Warp](https://www.warp.dev/) |搭载AI的智能终端(目前只支持MacOs、Linux，Windows coming soon) |
-
