@@ -244,6 +244,7 @@
 | [Hacker News](https://news.ycombinator.com/) | 发布注意要写软文，否则容易被删帖 |
 | [PoweredByAI](https://poweredbyai.app/) | 免费提交产品 |
 | [Pinterest](https://www.pinterest.com) | 发布视频频道也会被Google收录（免费）|
+| [独行录](https://opcmenu.com) | 一人公司的「大众点评」与交流网络，提交/认领产品即可被收录、点评、发现，主理人之间还能关注、私信、组队（国内，免费） |
 
 ## 字体
 
