@@ -117,6 +117,7 @@
 | --- | --- |
 | [Paddle](https://www.paddle.com/) |  支持中国大陆身份信息注册和提现 |
 | [Stripe](https://stripe.com/) | 需要企业资质  |
+| [LLC Class](https://llcclass.com) | 为出海开发者提供 [Wyoming LLC 注册](https://llcclass.com/wyoming)，获取 Stripe 所需的美国企业资质，包含 [registered agent for LLC](https://llcclass.com/what-is-llc-registered-agent) 和 EIN |
 
 ### 邮件
 
