@@ -136,6 +136,12 @@
 | [Clarity](https://clarity.microsoft.com/) | 微软出的分析工具 |
 | [AITDK Extension](https://aitdk.com/extension/) 🌟 | Chrome 插件。网站 SEO 分析工具 |
 
+### 应用商店与市场分析
+
+| 平台 | 备注 |
+| --- | --- |
+| [GetAppNiche](https://getappniche.com/) | iOS App Store 市场情报：收入估算、ASO 关键词、竞品广告、评论和细分市场研究 |
+
 ### 在线客服和反馈服务
 
 | 技术栈 | 备注 |
@@ -257,4 +263,3 @@
 | 平台 | 备注 |
 | --- | --- |
 | [Warp](https://www.warp.dev/) |搭载AI的智能终端(目前只支持MacOs、Linux，Windows coming soon) |
-
