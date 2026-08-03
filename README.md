@@ -142,6 +142,7 @@
 | --- | --- |
 | [Tawk](https://tawk.to/) | 在线客服，中国地区可注册  |
 | [腾讯兔小巢](https://txc.qq.com/) | 产品反馈平台，面向国内提供服务可使用 |
+| [Knocket](https://trtc.io/solutions/knocket) | 永久免费的 live chat widget + 可分享联系页 + 统一 Telegram/Email 收件箱，一行代码集成，无广告无座位限制 |
 
 ### 部署与托管
 
