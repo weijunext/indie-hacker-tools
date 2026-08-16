@@ -233,6 +233,7 @@
 | [Product Hunt](https://www.producthunt.com/) | 新产品打榜聚集地。Product Hunt 助手：[PHCopilot.AI](https://PHCopilot.AI) |
 | [Hacker News](https://news.ycombinator.com/) |  |
 | [Indie Hackers](https://www.indiehackers.com/) |  |
+| [IdeaHunter](https://ideahunter.today) | AI 创业想法研究工具，基于公开信号、买家痛点、市场证据、MVP 范围和变现路径辅助验证产品方向 |
 | [w2solo](https://w2solo.com/) | 中文独立开发者社区 |
 | [出海团](https://chuhaituan.com) | 专注于分享优秀出海产品的拼团平台 |
 
