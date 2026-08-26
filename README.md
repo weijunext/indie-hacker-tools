@@ -218,6 +218,7 @@
 | --- | --- |
 | [focusee](https://gemoo.com/focusee/) | |
 | [Screen Studio](https://www.screen.studio) | |
+| [Cadre](https://cadre.cam/) | Apple 芯片 Mac，本地非破坏性时间线编辑，支持 AI 智能体通过本地 MCP 执行可撤销编辑 |
 | [OBS Studio](https://obsproject.com/) | 开源、windows、mac、linux |
 
 ### 短链
