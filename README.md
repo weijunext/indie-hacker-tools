@@ -244,6 +244,7 @@
 | [Hacker News](https://news.ycombinator.com/) | 发布注意要写软文，否则容易被删帖 |
 | [PoweredByAI](https://poweredbyai.app/) | 免费提交产品 |
 | [Pinterest](https://www.pinterest.com) | 发布视频频道也会被Google收录（免费）|
+| [AI 独立制造所](https://indiemaker.cn/) | 收录中国独立开发者作品的导航站，2,900+ 产品，按 12 个分类浏览，每日自动同步上游清单。产品向 [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) 提 PR 后次日自动收录，免费、无竞价排名 |
 
 ## 字体
 
