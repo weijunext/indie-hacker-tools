@@ -181,6 +181,7 @@
 | [iconray](https://icon.ray.so/) |  logo 设计 |
 | [logodiffusion](https://logodiffusion.com/) | 生成你的logo |
 | [icon horse](https://icon.horse/) |  logo 探测 |
+| [FaviconDL](https://favicondl.com/) |  网站 favicon 提取下载（支持批量、免 key API） |
 | [favicon generator 1](https://realfavicongenerator.net/) |  生成多平台多种类logo(ico、PNG、SVG) |
 | [favicon generator 2](https://www.websiteplanet.com/webtools/favicon-generator/) | 生成多平台多种类logo(ico、PNG、SVG) |
 | [bit bug](https://www.bitbug.net/) |  PNG/JPG 转 ico |
