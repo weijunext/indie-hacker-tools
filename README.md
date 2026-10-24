@@ -154,6 +154,12 @@
 | [Cloudflare Pages](https://developers.cloudflare.com/pages/) | |
 | [阿里云服务器](https://www.aliyun.com/minisite/goods?userCode=hrvtosj1) <br>  [腾讯云服务器](https://curl.qcloud.com/lsJFImqi)| 国内云，经常有优惠|
 
+### App 多商店发布
+
+| 平台 | 备注 |
+| --- | --- |
+| [apkgo](https://github.com/KevinGong2013/apkgo) / [apkgo cloud](https://apkgo.baici.tech) | 一次上传，并发发布到国内主流应用商店（华为、小米、OPPO、vivo、荣耀、应用宝等），亦支持鸿蒙与 iOS；开源 CLI（PolyForm Noncommercial）+ 托管版，可接 CI |
+
 ### 域名购买
 
 | 平台 | 备注 |
