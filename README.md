@@ -243,6 +243,7 @@
 | [Product Hunt](https://www.producthunt.com/) | 新产品主打阵地，发布后其他导航站会来爬取，首选发布地。Product Hunt 助手：[PHCopilot.AI](https://PHCopilot.AI)  |
 | [Hacker News](https://news.ycombinator.com/) | 发布注意要写软文，否则容易被删帖 |
 | [PoweredByAI](https://poweredbyai.app/) | 免费提交产品 |
+| [RespawnStack](https://respawnstack.com) | 游戏开发者 AI 工具导航目录 |
 | [Pinterest](https://www.pinterest.com) | 发布视频频道也会被Google收录（免费）|
 
 ## 字体
