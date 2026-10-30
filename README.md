@@ -211,6 +211,7 @@
 | [tiny-img](https://tiny-img.com/webp/) | PNG、JPG 压缩并转 WEBP |
 | [video-to-gif](https://ezgif.com/video-to-gif) | 视频转 GIF|
 | [OG Image Generator](https://myogimage.com/) | 免费 OG Image 生成器|
+| [CurlShot](https://curlshot.com/) | 网页截图 API，URL/HTML/Markdown 转 PNG、PDF 或滚动视频，免费每月 100 张 |
 
 ### 录屏
 
