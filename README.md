@@ -100,6 +100,12 @@
 | [usegalileo](https://www.usegalileo.ai/) | Text to UI, 免费用户有 200 Credits |
 
 
+### 自动化测试
+
+| 平台 | 备注 |
+| --- | --- |
+| [agent-qa](https://vostride.com) | 自然语言测试 Web、Android 和 iOS，支持 CLI/MCP；memidex 持久记忆与自我改进。CLI 免费，模型/设备费用另计；FSL-1.1-ALv2 限制竞争性商业用途。 |
+
 ### 登录鉴权
 
 | 技术栈 | 备注 |
