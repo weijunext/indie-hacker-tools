@@ -253,6 +253,9 @@
 | [免费【英文】字体](https://www.freefaces.gallery/) | 免费可商用【英文】字体 |
 
 ## 终端
+| [Cockpit](https://github.com/Yvsleyen00941/Cockpit) | macOS 菜单栏生产力 HUD（日历、倒计时、便签） |
+| [Tape](https://github.com/Yvsleyen00941/Tape) | 原生 macOS 股票加密行情工具，常驻 Dock 旁角落 |
+| [Rime](https://github.com/Yvsleyen00941/Rime) | 极简专注的 macOS 原生 Markdown 阅读与写作工具 |
 
 | 平台 | 备注 |
 | --- | --- |
