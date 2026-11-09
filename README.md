@@ -211,6 +211,7 @@
 | [tiny-img](https://tiny-img.com/webp/) | PNG、JPG 压缩并转 WEBP |
 | [video-to-gif](https://ezgif.com/video-to-gif) | 视频转 GIF|
 | [OG Image Generator](https://myogimage.com/) | 免费 OG Image 生成器|
+| [AdVariq](https://advariq.com/) | AI 电商与出海营销广告图生成工具（商品零畸变、卖点标注与广告排版） |
 
 ### 录屏
 
