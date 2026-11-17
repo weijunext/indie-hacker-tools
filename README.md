@@ -172,6 +172,7 @@
 | [VitePress](https://vitepress.vuejs.org/) | Vite & Vue 驱动的静态站点生成器 |
 | [VitePressSimple](https://github.com/zhangdi168/VitePressSimple/) | VitePress可视化工具 |
 | [Astro Starlight](https://starlight.astro.build/) | 建立在 Astro 框架之上的全功能文档主题。<br>Astro 团队成员与中文文档翻译者：[@liruifengv](https://github.com/liruifengv/liruifengv) |
+| [HumanPen](https://humanpen.net/) | 文档处理平台：支持尽量保留原排版的 12 种语言文档翻译（PDF/DOCX/PPTX/XLSX/EPUB/HTML/TXT）、文档级去 AI 味润色（DOCX/PPTX/TXT）、内容精简（DOCX）与引用格式校正（DOCX）；商业积分制，注册即赠 100 积分。 |
 
 ### logo
 
