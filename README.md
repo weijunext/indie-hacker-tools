@@ -125,6 +125,7 @@
 | [Resend](https://resend.com/) |   |
 | [Nodemailer](https://github.com/nodemailer/nodemailer) |  |
 | [React Mail](https://react.email/) |  |
+| [InboxShield](https://inbox.shipbastion.com/) | 免费邮件送达率与域名认证审计（SPF 10-Lookup 展平、24 组 DKIM、DMARC、MTA-STS、BIMI 及 5 大 DNSBL 黑名单检测） |
 
 ### 网站分析
 
