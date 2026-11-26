@@ -210,6 +210,7 @@
 | [Tinypng](https://tinypng.com/) | 图片压缩 |
 | [tiny-img](https://tiny-img.com/webp/) | PNG、JPG 压缩并转 WEBP |
 | [video-to-gif](https://ezgif.com/video-to-gif) | 视频转 GIF|
+| [CompressGIF](https://compressgif.net/zh/) | 浏览器本地 WASM GIF 压缩（目标体积 100KB–10MB）与 12 合 1 GIF 工具（裁剪/调速/转 WebP 与 MP4），不上传文件、无水印 |
 | [OG Image Generator](https://myogimage.com/) | 免费 OG Image 生成器|
 
 ### 录屏
